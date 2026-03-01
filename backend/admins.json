@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "698571d1f0af1a54ede9451f",
+    "name": "Elakkiya ",
+    "email": "delakkiya2002@gmail.com",
+    "password": "Hanumanela&0142#",
+    "role": "Admin",
+    "schoolName": "Kongu ",
+    "__v": 0
+  },
+  {
+    "_id": "69a3edfa87118f08f00ba285",
+    "name": "Audit Admin",
+    "email": "audit@test.com",
+    "password": "$2b$10$H.XhXnJ4SFVldrxc9DZFPeYvYAC6wWUJfcMNWGCkoPD6t5BQBelJa",
+    "role": "Admin",
+    "schoolName": "Audit School",
+    "__v": 0
+  }
+]
